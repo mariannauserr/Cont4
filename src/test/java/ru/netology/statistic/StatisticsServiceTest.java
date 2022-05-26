@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class StatisticsServicetest {
+public class StatisticsServiceTest {
     @Test
     void findMax() {
         StatisticsService service = new StatisticsService();
